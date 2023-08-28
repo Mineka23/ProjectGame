@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>bc1e4eb53c82b42429caa826c01e64db</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-14T11:37:41+08:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>94518bff03b99d544848ad189941a771</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T11:37:41+08:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8bd5321a4f4ac9f48bf707a91357ea21</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T11:37:41+08:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8fe893d4ffad2cf469328f039e5c745d</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-12-14T11:37:41+08:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>86be97a8a35f2e54cba3f744adc8a8ef</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-14T11:37:41+08:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>69db85de9f8373f4187b106c25d47a48</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T11:37:41+08:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4e008a0962834374288222a656bc9fb4</guid>
+    <fileName>Assets/Scripts/BuildManager.cs</fileName>
+    <timeStamp>2023-08-28T01:42:20.0555076+08:00</timeStamp>
+    <typeFullName>
+      <string>BuildManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>153dd393b80768d4d8587c484df95783</guid>
+    <fileName>Assets/Scripts/Enemy.cs</fileName>
+    <timeStamp>2023-08-28T14:47:28.291419+08:00</timeStamp>
+    <typeFullName>
+      <string>Enemy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0633b80bc1af5b94db191c3b4234956c</guid>
+    <fileName>Assets/Scripts/EnemyMovement.cs</fileName>
+    <timeStamp>2023-08-28T14:05:47.4908626+08:00</timeStamp>
+    <typeFullName>
+      <string>EnemyMovement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c3c42937a031e7e4da7b6c5a4b07dca4</guid>
+    <fileName>Assets/Scripts/GameManager.cs</fileName>
+    <timeStamp>2023-08-28T14:52:34.1071126+08:00</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d632d3165716f614c853f60fe901df67</guid>
+    <fileName>Assets/Scripts/GameOver.cs</fileName>
+    <timeStamp>2023-08-28T14:40:06.6543679+08:00</timeStamp>
+    <typeFullName>
+      <string>GameOver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2e4384d3575796149af1cbb7e9e1eab3</guid>
+    <fileName>Assets/Scripts/Mage.cs</fileName>
+    <timeStamp>2023-08-28T14:18:12.131016+08:00</timeStamp>
+    <typeFullName>
+      <string>Mage</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c41d5447cf8b5dc4aa6520544734a9c5</guid>
+    <fileName>Assets/Scripts/MageBlueprint.cs</fileName>
+    <timeStamp>2023-08-28T01:27:09.7501414+08:00</timeStamp>
+    <typeFullName>
+      <string>MageBlueprint</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>09d8837d512a06149841d0031a85d204</guid>
+    <fileName>Assets/Scripts/MainMenu.cs</fileName>
+    <timeStamp>2023-08-28T13:02:00.3103524+08:00</timeStamp>
+    <typeFullName>
+      <string>MainMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>81cf8000c50f7ad4ab9bb38ad1f401ac</guid>
+    <fileName>Assets/Scripts/Node.cs</fileName>
+    <timeStamp>2023-08-28T02:44:01.348216+08:00</timeStamp>
+    <typeFullName>
+      <string>Node</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6d43cf41c341e374c82bcaaf8c39e8b5</guid>
+    <fileName>Assets/Scripts/NodeUI.cs</fileName>
+    <timeStamp>2023-08-28T01:37:10.4531691+08:00</timeStamp>
+    <typeFullName>
+      <string>NodeUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2163480fd3514a544aab34fd9f356481</guid>
+    <fileName>Assets/Scripts/PauseMenu.cs</fileName>
+    <timeStamp>2023-08-28T13:18:38.6506127+08:00</timeStamp>
+    <typeFullName>
+      <string>PauseMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>72200141ed0319c4583606cd4c522f2b</guid>
+    <fileName>Assets/Scripts/Player Stats.cs</fileName>
+    <timeStamp>2023-08-28T12:30:35.9558351+08:00</timeStamp>
+    <typeFullName>
+      <string>PlayerStats</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>173705160b5eeac469267b0911add2c1</guid>
+    <fileName>Assets/Scripts/SettingsMenu.cs</fileName>
+    <timeStamp>2023-08-28T15:03:49.0015964+08:00</timeStamp>
+    <typeFullName>
+      <string>SettingsMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5a8b0fb58d460374e9b4c6200d5aae08</guid>
+    <fileName>Assets/Scripts/Shop.cs</fileName>
+    <timeStamp>2023-08-27T14:58:32.1638392+08:00</timeStamp>
+    <typeFullName>
+      <string>Shop</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2b4ae8c9a5e969b4c8d91193fe60795e</guid>
+    <fileName>Assets/Scripts/SkillPointsUI.cs</fileName>
+    <timeStamp>2023-08-26T17:03:09.7451411+08:00</timeStamp>
+    <typeFullName>
+      <string>SkillPointsUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3c334e6e5b2ba974a81a0e724a840cce</guid>
+    <fileName>Assets/Scripts/Spell.cs</fileName>
+    <timeStamp>2023-08-27T12:17:09.4264265+08:00</timeStamp>
+    <typeFullName>
+      <string>Spell</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b0d5841ea80698409faf4a478ad82f2</guid>
+    <fileName>Assets/Scripts/Wave.cs</fileName>
+    <timeStamp>2023-08-28T11:26:09.2820496+08:00</timeStamp>
+    <typeFullName>
+      <string>Wave</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75ade948498d5eb42ac1b90a621b1b67</guid>
+    <fileName>Assets/Scripts/WaveSpawner.cs</fileName>
+    <timeStamp>2023-08-28T14:50:05.520593+08:00</timeStamp>
+    <typeFullName>
+      <string>WaveSpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f24eb072256258e46891219374eb9027</guid>
+    <fileName>Assets/Scripts/Waypoints.cs</fileName>
+    <timeStamp>2023-08-15T16:07:56.3392481+08:00</timeStamp>
+    <typeFullName>
+      <string>Waypoints</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6a25c5b6a3fd74a209f57bf624abc7e4</guid>
+    <fileName>Assets/Free UI build package/Script/Slide.cs</fileName>
+    <timeStamp>2020-06-08T03:54:41+08:00</timeStamp>
+    <typeFullName>
+      <string>Slide</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>16ea6353be13e4709943361044cbd0f7</guid>
+    <fileName>Assets/Free UI build package/Script/Togglescript.cs</fileName>
+    <timeStamp>2020-06-08T03:54:37+08:00</timeStamp>
+    <typeFullName>
+      <string>Togglescript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a086860a8ac2f934cb49f0660a4e7f9c</guid>
+    <fileName>Assets/PyroParticles/Demo/DemoScript.cs</fileName>
+    <timeStamp>2022-05-18T01:05:08+08:00</timeStamp>
+    <typeFullName>
+      <string>DigitalRuby.PyroParticles.DemoScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4fbb23ad5be68cc4b80bc59ba254e804</guid>
+    <fileName>Assets/PyroParticles/Demo/DemoScriptEditor.cs</fileName>
+    <timeStamp>2022-05-18T01:04:55+08:00</timeStamp>
+    <typeFullName>
+      <string>DigitalRuby.PyroParticles.LightningBoltEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>373ffa2c950091d47990a3706da202ab</guid>
+    <fileName>Assets/AurynSky/Forest Pack/Scripts/ChestDemo.cs</fileName>
+    <timeStamp>2019-08-22T02:32:31+08:00</timeStamp>
+    <typeFullName>
+      <string>ChestDemo</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e1125b1476239d846b6feee6062f48b3</guid>
+    <fileName>Assets/AurynSky/Forest Pack/Scripts/MaterialMover.cs</fileName>
+    <timeStamp>2019-08-22T02:33:03+08:00</timeStamp>
+    <typeFullName>
+      <string>MaterialMover</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e3d1c710b96cf434f9d0cfd5d0cad307</guid>
+    <fileName>Assets/AurynSky/Forest Pack/Scripts/Rotator.cs</fileName>
+    <timeStamp>2019-08-22T02:33:04+08:00</timeStamp>
+    <typeFullName>
+      <string>Rotator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>36c0437b056074a4fa083c93ffe4027d</guid>
+    <fileName>Assets/AurynSky/Forest Pack/Scripts/WheelController.cs</fileName>
+    <timeStamp>2019-08-22T02:32:31+08:00</timeStamp>
+    <typeFullName>
+      <string>WheelController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>107e70a78028fcf4abe107cab565e94c</guid>
+    <fileName>Assets/C&amp;C_Pack/Goblin_rouge/Script/Goblin_ro_ctrl.cs</fileName>
+    <timeStamp>2016-07-12T02:13:25+08:00</timeStamp>
+    <typeFullName>
+      <string>Goblin_ro_ctrl</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>afd7da1099b953e4aa50de5a30dd8c50</guid>
+    <fileName>Assets/PyroParticles/Prefab/Editor/PyroParticlesEditor.cs</fileName>
+    <timeStamp>2022-05-18T01:05:10+08:00</timeStamp>
+    <typeFullName>
+      <string>DigitalRuby.PyroParticles.LightningBoltEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>edb4b036759befb44adb7543192710db</guid>
+    <fileName>Assets/PyroParticles/Prefab/Script/FireBaseScript.cs</fileName>
+    <timeStamp>2022-05-18T01:05:20+08:00</timeStamp>
+    <typeFullName>
+      <string>DigitalRuby.PyroParticles.RangeOfIntegers</string>
+      <string>DigitalRuby.PyroParticles.RangeOfFloats</string>
+      <string>DigitalRuby.PyroParticles.FireBaseScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e03644fdf51cfd34f8fdc92879c31a14</guid>
+    <fileName>Assets/PyroParticles/Prefab/Script/FireCollisionForwardScript.cs</fileName>
+    <timeStamp>2022-05-18T01:05:19+08:00</timeStamp>
+    <typeFullName>
+      <string>DigitalRuby.PyroParticles.ICollisionHandler</string>
+      <string>DigitalRuby.PyroParticles.FireCollisionForwardScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1b986ebeafa7e224e810d950d54baf03</guid>
+    <fileName>Assets/PyroParticles/Prefab/Script/FireConstantBaseScript.cs</fileName>
+    <timeStamp>2022-05-18T01:04:45+08:00</timeStamp>
+    <typeFullName>
+      <string>DigitalRuby.PyroParticles.LoopingAudioSource</string>
+      <string>DigitalRuby.PyroParticles.FireConstantBaseScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b85cb039b6d149f46b051488d2465561</guid>
+    <fileName>Assets/PyroParticles/Prefab/Script/FireLightScript.cs</fileName>
+    <timeStamp>2022-05-18T01:05:13+08:00</timeStamp>
+    <typeFullName>
+      <string>DigitalRuby.PyroParticles.FireLightScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>245887334a601354cb1853676e37a7e6</guid>
+    <fileName>Assets/PyroParticles/Prefab/Script/FireProjectileScript.cs</fileName>
+    <timeStamp>2022-05-18T01:04:48+08:00</timeStamp>
+    <typeFullName>
+      <string>DigitalRuby.PyroParticles.FireProjectileScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>69a6bf343df323040a372aa4198de5b9</guid>
+    <fileName>Assets/PyroParticles/Prefab/Script/MeteorSwarmScript.cs</fileName>
+    <timeStamp>2022-05-18T01:04:58+08:00</timeStamp>
+    <typeFullName>
+      <string>DigitalRuby.PyroParticles.MeteorSwarmScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9d4dca8e99d1fb246b9f52754b4841dd</guid>
+    <fileName>Assets/PyroParticles/Prefab/Script/SingleLineAttribute.cs</fileName>
+    <timeStamp>2022-05-18T01:05:07+08:00</timeStamp>
+    <typeFullName>
+      <string>DigitalRuby.PyroParticles.SingleLineAttribute</string>
+      <string>DigitalRuby.PyroParticles.SingleLineDrawer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e9992d5267d32844997fe70bfccd30d0</guid>
+    <fileName>Assets/SiuniaevCharacters/02_Golem/Scripts/AnimationButton.cs</fileName>
+    <timeStamp>2021-12-12T21:00:18+08:00</timeStamp>
+    <typeFullName>
+      <string>AnimationButton</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>89aa8bda247201f48a11dec2ab463f31</guid>
+    <fileName>Assets/SiuniaevCharacters/02_Golem/Scripts/CharacterRotator.cs</fileName>
+    <timeStamp>2021-12-12T21:00:16+08:00</timeStamp>
+    <typeFullName>
+      <string>CharacterRotator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
